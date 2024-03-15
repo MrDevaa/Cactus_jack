@@ -1,5 +1,5 @@
 # Responsive Cactus Website
-## [Watch it on youtube](https://youtu.be/x9pm31GVduo)
+## Portfolio-dev
 ### Responsive Cactus Website
 
 - Responsive Cactus Website Design Using HTML CSS And JavaScript
@@ -9,7 +9,6 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
 
-![preview img](/preview.png)
+<!-- ![preview img](/preview.png) -->
 "# cactus_website" 
