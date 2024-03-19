@@ -147,6 +147,9 @@ img {
   column-gap: .25rem;
   align-items: center;
 }
+.nav__img{
+  width: 90px;
+}
 
 .nav__logo i{
   color: var(--first-color);

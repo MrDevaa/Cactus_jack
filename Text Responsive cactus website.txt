@@ -134,3 +134,11 @@ SOCIAL MEDIA
 
 .footer__copy
 &#169; All Rights Reserved By Bedimcode
+
+
+/// portfolio 
+
+color to use 
+#3184A4  light blue 
+
+#83C94A greeen
